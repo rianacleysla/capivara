@@ -2,7 +2,7 @@
 
 ## Apresentação do Projeto
 
-O projeto Capivara foi desenvolvido como uma maneira divertida e educativa de explorar o desenvolvimento web, utilizando HTML para criar um site dedicado a compartilhar curiosidades, informações e uma tabela sobre as Capivaras, os simpáticos e curiosos roedores que são considerados os maiores do mundo.
+O site Capivara foi desenvolvido como uma maneira divertida e educativa para treinar meus conhecimentos, usando HTML para criar um site para compartilhar curiosidades, informações e uma tabela sobre as Capivaras, os simpáticos e curiosos roedores que são considerados os maiores do mundo.
 
 ## Arquivos Principais e Anotações Sobre o Código
 
